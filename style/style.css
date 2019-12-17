@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+ }
+ h1 {
+    color: maroon;
+    margin-left: 40px;
+ }
+ h3{
+    font-family:arial;
+     color:aqua"
+ }
+ #output {
+    font-family:arial;
+    columns: #0000ff;
+ }
+ .c1{
+    font-family:arial;
+ }
+ .c2{
+     color: #0000ff;
+ }
